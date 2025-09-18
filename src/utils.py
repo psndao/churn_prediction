@@ -1,0 +1,3 @@
+"""
+Fonctions utilitaires réutilisables
+"""

@@ -1,0 +1,7 @@
+# Liste des dépendances Python
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
