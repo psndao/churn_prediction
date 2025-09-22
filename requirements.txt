@@ -1,7 +1,5 @@
-# Liste des dépendances Python
+numpy==2.3.3
+scikit-learn==1.7.2
 pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-xgboost
+flask
+joblib
